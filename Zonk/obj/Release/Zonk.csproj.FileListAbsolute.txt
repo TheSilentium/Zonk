@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\Graduate_work\Zonk\Zonk\bin\Release\Zonk.exe.config
+C:\Users\Admin\source\repos\Graduate_work\Zonk\Zonk\bin\Release\Zonk.exe
+C:\Users\Admin\source\repos\Graduate_work\Zonk\Zonk\bin\Release\Zonk.pdb
+C:\Users\Admin\source\repos\Graduate_work\Zonk\Zonk\obj\Release\Zonk.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Graduate_work\Zonk\Zonk\obj\Release\Zonk.Form1.resources
+C:\Users\Admin\source\repos\Graduate_work\Zonk\Zonk\obj\Release\Zonk.FormStart.resources
+C:\Users\Admin\source\repos\Graduate_work\Zonk\Zonk\obj\Release\Zonk.InstrForm.resources
+C:\Users\Admin\source\repos\Graduate_work\Zonk\Zonk\obj\Release\Zonk.Properties.Resources.resources
+C:\Users\Admin\source\repos\Graduate_work\Zonk\Zonk\obj\Release\Zonk.WinForm.resources
+C:\Users\Admin\source\repos\Graduate_work\Zonk\Zonk\obj\Release\Zonk.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Graduate_work\Zonk\Zonk\obj\Release\Zonk.exe
+C:\Users\Admin\source\repos\Graduate_work\Zonk\Zonk\obj\Release\Zonk.pdb
